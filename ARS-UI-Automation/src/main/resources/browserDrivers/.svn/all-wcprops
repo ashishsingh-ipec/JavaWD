@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/myssi/!svn/ver/517/QA/MYSSI-PortalUI/src/main/resources/browserDrivers
+END
+IEDriverServer.exe
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/myssi/!svn/ver/517/QA/MYSSI-PortalUI/src/main/resources/browserDrivers/IEDriverServer.exe
+END
+chromedriver.exe
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/myssi/!svn/ver/517/QA/MYSSI-PortalUI/src/main/resources/browserDrivers/chromedriver.exe
+END
